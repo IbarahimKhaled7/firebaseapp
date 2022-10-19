@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966889398887",
+    "project_id": "flutterme-c5818",
+    "storage_bucket": "flutterme-c5818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966889398887:android:337a2cc681452e0285eac2",
+        "android_client_info": {
+          "package_name": "com.example.sdaw222"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966889398887-vnqnta4ov56lti7djiauiro87m7dft82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdaw222",
+            "certificate_hash": "b50e4be3e8422ae99fa292ed859e379323987a38"
+          }
+        },
+        {
+          "client_id": "966889398887-lss6bchme152f60aroj0ks0h3dh3uf6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Kn49b5_3bd7eBVDVfyEKhClVxJtCD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966889398887-lss6bchme152f60aroj0ks0h3dh3uf6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1313 @@
+https://newsapi.org/
+v2/everything?
+q=tesla&from=2022-08-26&sortBy=publishedAt&apiKey=ce7ecdb8f4914a278ec6967d213b0acf
+
+https://newsapi.org/v2/everything?q=tesla&from=2022-08-27&sortBy=publishedAt&apiKey=e16bf2009cf34182880435a3aff6beee
+
+
+{
+"status": "ok",
+"totalResults": 5729,
+-"articles": [
+-{
+-"source": {
+"id": "newsweek",
+"name": "Newsweek"
+},
+"author": "Simone Carter",
+"title": "Elon Musk Vs. Twitter: What to Know About the Trial as He Faces Deposition",
+"description": "The Tesla CEO's deposition with the social media company is set to begin on Monday and could potentially last until Wednesday.",
+"url": "https://www.newsweek.com/elon-musk-vs-twitter-what-know-about-trial-he-faces-deposition-1746272",
+"urlToImage": "https://d.newsweek.com/en/full/2122475/elon-musk-twitter-deposition.jpg",
+"publishedAt": "2022-09-26T15:54:04Z",
+"content": "After backing out of a $44 billion agreement to buy Twitter, Elon Musk now must spend multiple days fielding questions from the platform's lawyers.\r\nThe deposition begins on Monday and will last unti… [+3236 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tech Xplore"
+},
+"author": "John DeCicco",
+"title": "Surging sales of large gasoline pickups and SUVs are undermining carbon reductions from electric cars",
+"description": "Replacing petroleum fuels with electricity is crucial for curbing climate change because it cuts carbon dioxide emissions from transportation—the largest source of U.S. global warming emissions and a growing source worldwide. Even including the impacts of gen…",
+"url": "https://techxplore.com/news/2022-09-surging-sales-large-gasoline-pickups.html",
+"urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/surging-sales-of-large.jpg",
+"publishedAt": "2022-09-26T15:50:04Z",
+"content": "Replacing petroleum fuels with electricity is crucial for curbing climate change because it cuts carbon dioxide emissions from transportationthe largest source of U.S. global warming emissions and a … [+7728 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Reuters",
+"title": "Wall St update: Nasdaq rises as battered growth stocks show recovery signs",
+"description": "Tech, consumer discretionary lead sectoral advance; casinos jump as Macau allows tour groups after nearly 3 years",
+"url": "https://www.business-standard.com/article/international/wall-st-update-nasdaq-rises-as-battered-growth-stocks-show-recovery-signs-122092601241_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/05/full/1633449772-6832.JPG",
+"publishedAt": "2022-09-26T15:45:00Z",
+"content": "The Nasdaq index moved higher in early session on Monday as beaten-down growth stocks tried to stage a comeback from a steep selloff that was triggered by worries of a central bank-induced recession.… [+2455 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Michael Hatamoto",
+"title": "EV sales still rising, but more needs to be done to reach net-zero",
+"description": "Electric vehicle sales are going up, but there is still much left to do before we successfully reach net-zero by intended deadlines. Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/88609/ev-sales-still-rising-but-more-needs-to-be-done-reach-net-zero/index.html",
+"urlToImage": "https://static.tweaktown.com/news/8/8/88609_02_ev-sales-still-rising-but-more-needs-to-be-done-reach-net-zero_full.jpg",
+"publishedAt": "2022-09-26T15:42:32Z",
+"content": "Over half of automotive sales in the United States will be electric vehicles in 2030, according to a recent Bloomberg New Energy Finance report. In the current timeframe, EV sales in 2022 are reachin… [+1641 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Reuters",
+"title": "Tesla countersues California agency behind race discrimination lawsuit",
+"description": "Filed under:\n Government/Legal,Green,Tesla\n Continue reading Tesla countersues California agency behind race discrimination lawsuit\nTesla countersues California agency behind race discrimination lawsuit originally appeared on Autoblog on Mon, 26 Sep 2022 11:4…",
+"url": "https://www.autoblog.com/2022/09/26/tesla-countersues-california-agency-race-bias-lawsuit/",
+"urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/4846x2726+0+157/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2019-03/86d0b450-3e93-11e9-9fff-3b8d64486f23",
+"publishedAt": "2022-09-26T15:41:00Z",
+"content": "Tesla last week countersued the California agency that has accused the electric carmaker of tolerating widespread race discrimination at its flagship assembly plant.\r\nTesla in a complaint filed in st… [+2193 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Peter Johnson",
+"title": "Volkswagen’s PowerCo forms new partnership to produce battery materials for 2.2M EVs",
+"description": "Volkswagen’s new battery company, PowerCo, announced Monday that it would be forming a joint venture with Umicore to produce battery materials for around 2.2 million EVs. The new joint venture is a significant milestone, establishing one of the first fully in…",
+"url": "https://electrek.co/2022/09/26/volkswagens-powerco-forms-new-partnership-with-umicore/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Volkswagen-Umicore.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2022-09-26T15:36:15Z",
+"content": "Volkswagen’s new battery company, PowerCo, announced Monday that it would be forming a joint venture with Umicore to produce battery materials for around 2.2 million EVs. The new joint venture is a s… [+3188 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "Reuters via Yahoo",
+"title": "Tesla countersues CA agency behind race bias lawsuit",
+"description": "STORY: Telsa, which was slapped with a lawsuit alleging racial discrimination, is counter-suing the California agency that leveled the allegations against the electric car-maker at its flagship assembly plant. The EV manufacturer alleges that the California C…",
+"url": "https://freerepublic.com/focus/f-news/4096169/posts",
+"urlToImage": null,
+"publishedAt": "2022-09-26T15:34:48Z",
+"content": "Skip to comments.\r\nTesla countersues CA agency behind race bias lawsuitReuters via Yahoo ^\r\n | Sep 23 2022 \r\n | Reuters\r\nPosted on 09/26/2022 8:34:48 AM PDT by SmokingJoe\r\nSTORY: Telsa, which was sla… [+2262 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Umar Shakir",
+"title": "Tesla’s Gigafactory in Berlin had a cardboard fire",
+"description": "Tesla had a fire at its Gigafactory in Berlin, where a large collection of cardboard, paper, and wood went ablaze. Local groups who long opposed the factory are now using this incident to reignite environmental concerns.",
+"url": "https://www.theverge.com/2022/9/26/23372783/tesla-gigafactory-fire-berlin-germany-cardboard",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/qu-A9VI-C0aiPJbmICfcaQOCi-A=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10752833/acastro_180430_1777_tesla_0004.jpg",
+"publishedAt": "2022-09-26T15:32:33Z",
+"content": "Teslas Gigafactory in Berlin had a cardboard fire\r\nTeslas Gigafactory in Berlin had a cardboard fire\r\n / Why the recycling materials went ablaze is unknown, but its enough for local groups to get fir… [+2098 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Beth McKenna)",
+"title": "2 High-Growth Electric Vehicle Stocks to Consider Buying (Other Than Tesla)",
+"description": "The electric vehicle revolution is underway, but still has phenomenal long-term growth potential.",
+"url": "https://www.fool.com/investing/2022/09/26/best-ev-stocks-to-consider-buying/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/701978/best-ev-stocks-2022-alb-stock-rivn-stock.jpg",
+"publishedAt": "2022-09-26T15:32:12Z",
+"content": "The transformation of the world's vehicle fleet to being powered by electricity is one of today's biggest growth trends. In 2021, sales of new light-duty fully electric vehicles (EVs) nearly doubled … [+3666 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "PR Newswire",
+"title": "Alpha Motor Corporation Welcomes New Advisory Board Members",
+"description": "Alpha Motor Corporation has announced appointment of Peter Bardenfleth-Hansen, Oded Tal and Noah Goldstein to its advisory board, strengthening the company's...",
+"url": "https://finance.yahoo.com/news/alpha-motor-corporation-welcomes-advisory-153000952.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/PkHSjIASab0LvbysaL7Sfw--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/334d7584ada21994d3d1aa2dff593f65",
+"publishedAt": "2022-09-26T15:30:00Z",
+"content": "IRVINE, Calif., Sept. 26, 2022 /PRNewswire/ -- Alpha Motor Corporation has announced appointment of Peter Bardenfleth-Hansen, Oded Tal and Noah Goldstein to its advisory board, strengthening the comp… [+4685 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "Alpha Motor Corporation Welcomes New Advisory Board Members",
+"description": "IRVINE, Calif., Sept. 26, 2022 /PRNewswire/ -- Alpha Motor Corporation has announced appointment of Peter Bardenfleth-Hansen, Oded Tal and Noah Goldstein to its advisory board, strengthening the company's position as a prominent and influential brand of elect…",
+"url": "https://www.prnewswire.com/news-releases/alpha-motor-corporation-welcomes-new-advisory-board-members-301632716.html",
+"urlToImage": "https://mma.prnewswire.com/media/1337358/Alpha_Logo.jpg?p=facebook",
+"publishedAt": "2022-09-26T15:30:00Z",
+"content": "IRVINE, Calif., Sept. 26, 2022 /PRNewswire/ -- Alpha Motor Corporation has announced appointment of Peter Bardenfleth-Hansen, Oded Tal and Noah Goldstein to its advisory board, strengthening the comp… [+4430 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Jalopnik"
+},
+"author": "Owen Bellwood",
+"title": "Convertibles Might be the Biggest Casualty in Our Switch to EVs",
+"description": "Drivers in the U.S. are falling out of love with the convertible sports car, electric car buyers still want to be able to shop at a dealership, and Mazda is thinking about closing its operation in Russia. All this and more in The Morning Shift for September 2…",
+"url": "https://jalopnik.com/convertibles-might-be-the-biggest-casualty-in-our-switc-1849580383",
+"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4cdf1cb28a9afd8c5c7c3ed3be730ad9.jpg",
+"publishedAt": "2022-09-26T15:30:00Z",
+"content": "Drivers in the U.S. are falling out of love with the convertible sports car, electric car buyers still want to be able to shop at a dealership, and Mazda is thinking about closing its operation in Ru… [+6730 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Wire"
+},
+"author": null,
+"title": "One-third of Meetings Are Unnecessary, Costing Companies Millions (and No One Is Happy About It)",
+"description": "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Otter.ai, the world’s leading meeting transcription and collaboration tool, in partnership with the University of North Carolina Chancellor’s professor and award-winning author, Dr. Steven Rogelberg, today released new …",
+"url": "https://www.businesswire.com/news/home/20220926005145/en/One-third-of-Meetings-Are-Unnecessary-Costing-Companies-Millions-and-No-One-Is-Happy-About-It",
+"urlToImage": "https://mms.businesswire.com/media/20220926005145/en/1581878/23/Press_Release_Header_1920x1080.jpg",
+"publishedAt": "2022-09-26T15:22:29Z",
+"content": "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Otter.ai, the worlds leading meeting transcription and collaboration tool, in partnership with the University of North Carolina Chancellors professor and award… [+5514 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Fred Lambert",
+"title": "Tesla Semi electric trucks spotted being shipped around ahead of deliveries",
+"description": "Several Tesla Semi electric trucks have been spotted being shipped around the country ahead of the long-awaited start of deliveries.\n more…\nThe post Tesla Semi electric trucks spotted being shipped around ahead of deliveries appeared first on Electrek.",
+"url": "https://electrek.co/2022/09/26/tesla-semi-electric-trucks-spotted-shipped-ahead-deliveries/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Semi-shipped.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2022-09-26T15:11:09Z",
+"content": "Several Tesla Semi electric trucks have been spotted being shipped around the country ahead of the long-awaited start of deliveries.\r\nTesla Semi, an all-electric class 8 truck, was unveiled all the w… [+2338 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "Elektrek",
+"title": "A fire broke out at Tesla Gigafactory Berlin; locals call for production stop (Germany)",
+"description": "A fire broke out at Tesla Gigafactory Berlin’s recycling plant in the early hours of the morning, and now a local group that has been fighting the project is using the fire to call for stopping production. In the early hours of the morning, Tesla’s own fire b…",
+"url": "https://freerepublic.com/focus/f-news/4096160/posts",
+"urlToImage": null,
+"publishedAt": "2022-09-26T15:09:01Z",
+"content": "Skip to comments.\r\nA fire broke out at Tesla Gigafactory Berlin; locals call for production stop (Germany)Elektrek ^\r\n | 9-26-22\r\n | Fred Lambert\r\nPosted on 09/26/2022 8:09:01 AM PDT by dynachrome\r\nA… [+3689 chars]"
+},
+-{
+-"source": {
+"id": "bloomberg",
+"name": "Bloomberg"
+},
+"author": "Bloomberg",
+"title": "Closing the scope 3 GHG emissions data gap",
+"description": "Scope 3 greenhouse gas emissions have significant environmental impact, but little is known about them. To shine a light on this data gap, Bloomberg has developed a Scope 1, 2 and 3 estimates model to cover both companies that do report but also those that do…",
+"url": "https://www.bloomberg.com/professional/blog/closing-the-scope-3-ghg-emissions-data-gap/",
+"urlToImage": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2F325211756.jpg&width=1600",
+"publishedAt": "2022-09-26T15:07:24Z",
+"content": "The previous blog in our series overviews the principles behind Bloombergs machine learning model for estimating GHG emissions, while this article focuses on how Bloomberg transparently and systemati… [+4773 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Thomas Barrabi",
+"title": "Elon Musk says it’s ‘obviously correct’ that Fed is tanking US economy",
+"description": "Musk reacted to a fiery rant from Wharton professor Jeremy Siegel, who slammed the Fed's stance.",
+"url": "https://nypost.com/2022/09/26/elon-musk-says-its-obviously-correct-that-fed-is-tanking-us-economy/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/elon-musk-jeremy-siegel-jerome-powell-comp.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2022-09-26T15:06:49Z",
+"content": "Billionaire Elon Musk backed a prominent Wharton economist who accused the Federal Reserve and its chairman Jerome Powell of completely botching their response to the current economic slump.\r\nMusk re… [+2426 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CarScoops"
+},
+"author": "Sam D. Smith",
+"title": "Tesla Countersues California Authority That Filed Racial Discrimination Suit",
+"description": "Tesla says the Californian agency violated state rules and adopted \"underground rulemaking\".",
+"url": "https://www.carscoops.com/2022/09/tesla-countersues-california-authority-that-filed-racial-discrimination-suit/",
+"urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Model-3.jpg",
+"publishedAt": "2022-09-26T15:05:45Z",
+"content": "Tesla Inc. is no stranger to controversies or legal battles and, at any given time they seem to be involved in some situation or another that generates billable hours for lawyers and, of course, head… [+2042 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "OilPrice.com"
+},
+"author": "OilPrice.com",
+"title": "Tesla Gigafactory Catches Fire In Germany",
+"description": "A major fire appears to have broken out at Tesla's Berlin recycling plant, prompting a local group of environmentalists who have been fighting the company to call for Tesla to stop production.  Overnight electrek reported that Tesla's on-site fire brigade cal…",
+"url": "https://oilprice.com/Latest-Energy-News/World-News/Tesla-Gigafactory-Catches-Fire-In-Germany.html",
+"urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-09-26_lzg6wun2ks.jpg",
+"publishedAt": "2022-09-26T14:30:00Z",
+"content": "As Europe scrambles to get…\r\nThe Russian Security Council is…\r\nBy ZeroHedge - Sep 26, 2022, 9:30 AM CDTA major fire appears to have broken out at Tesla's Berlin recycling plant, prompting a local gro… [+1356 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Thesuperficial.com"
+},
+"author": "Liam Roberts",
+"title": "Jason Sudeikis Net Worth: Age, Career, Investments, Awards, Biography, Family",
+"description": "The American actor, Jason Sudeikis has been a hot topic among comedy enthusiasts since he made his debut as “Ted Lasso” in the comedy TV series with the same title. In addition to playing the titular role, Jason Sudeikis is also the co-creator of the show. Th…",
+"url": "https://www.thesuperficial.com/jason-sudeikis-net-worth/",
+"urlToImage": "https://www.thesuperficial.com/wp-content/uploads/2022/09/Jason-Sudeikis-scaled.jpg",
+"publishedAt": "2022-09-26T14:25:58Z",
+"content": "The American actor, Jason Sudeikis has been a hot topic among comedy enthusiasts since he made his debut as “Ted Lasso” in the comedy TV series with the same title. In addition to playing the titular… [+11607 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Loren Thompson, Senior Contributor, \n Loren Thompson, Senior Contributor\n https://www.forbes.com/sites/lorenthompson/",
+"title": "U.S. Tax Law’s Retrograde Treatment Of R&D Is A Threat To National Security",
+"description": "Federal tax treatment of private R&D expenses could change in a way that makes it harder to keep up with China.",
+"url": "https://www.forbes.com/sites/lorenthompson/2022/09/26/us-tax-laws-retrograde-treatment-of-rd-is-a-threat-to-national-security/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6331b6008646229934dd538a/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2022-09-26T14:25:30Z",
+"content": "In February of 2020, long before he was chosen to be the next National Security Advisor by president-elect Joe Biden, Jake Sullivan co-authored an essay in Foreign Policy about the nexus between econ… [+6194 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Neil Rozenbaum)",
+"title": "The Big Red Flag for Tesla Stock",
+"description": "The stock is under pressure but the company, not so much.",
+"url": "https://www.fool.com/investing/2022/09/26/the-big-red-flag-for-tesla-stock/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/702377/tesla-twitter-2.png",
+"publishedAt": "2022-09-26T14:00:00Z",
+"content": "In this video, I will be talking about the red flag that is waving above Tesla(TSLA 1.60%) right now. Twitter is set to depose Elon Musk on Monday, Sept. 26, and it could last three days. Some Tesla … [+342 chars]"
+},
+-{
+-"source": {
+"id": "politico",
+"name": "Politico"
+},
+"author": "By Nick Niedzwiadek",
+"title": "Minimum wage increases on tap for 2023",
+"description": "A majority of states have set their own higher minimum wage amounts, according to the Labor Department.",
+"url": "https://www.politico.com/newsletters/weekly-shift/2022/09/26/minimum-wage-increases-on-tap-for-2023-00058772",
+"urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+"publishedAt": "2022-09-26T14:00:00Z",
+"content": "Presented by WorkRise\r\nQUICK FIX\r\nMARK YOUR CALENDARS:The federal fiscal year ends this week, which means the calendar will be flipping before you know it.\r\nJanuary often marks the start date for man… [+11092 chars]"
+},
+-{
+-"source": {
+"id": "news24",
+"name": "News24"
+},
+"author": null,
+"title": "News24.com | Porsche to race onto German stock exchange with mega IPO",
+"description": "Luxury sports carmaker Porsche will this week race onto the Frankfurt stock exchange in what is set to be one of Europe's biggest listings in years, seeking to defy recent market turbulence.",
+"url": "https://www.news24.com/fin24/Companies/porsche-to-race-onto-german-stock-exchange-with-mega-ipo-20220926",
+"urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3510/5b478636f6c245339327e2b44a729bbf.jpg",
+"publishedAt": "2022-09-26T13:37:27Z",
+"content": "Luxury sports carmaker Porsche will this week race onto the Frankfurt stock exchange in what is set to be one of Europe's biggest listings in years, seeking to defy recent market turbulence.\r\nWhile t… [+3383 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ExtremeTech"
+},
+"author": "Adrianna Nine",
+"title": "Tesla Recalls More Than 1 Million Vehicles for Defective Window Mechanisms",
+"description": "Many vehicles are ignoring obstructions as the window rolls up, which could result in a nasty pinch.\nThe post Tesla Recalls More Than 1 Million Vehicles for Defective Window Mechanisms appeared first on ExtremeTech.",
+"url": "https://www.extremetech.com/?p=339828",
+"urlToImage": "https://www.extremetech.com/wp-content/uploads/2022/09/jp-valery-Qm_n6aoYzDs-unsplash-640x427.jpg",
+"publishedAt": "2022-09-26T13:32:08Z",
+"content": "(Photo: JP Valery/Unsplash)\r\nTesla is recalling 1.1 million vehicles due to a faulty window mechanism that could harm drivers and their passengers. The National Highway Traffic Safety Administration … [+2163 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "Thinking about trading options or stock in Wynn Resorts, Tesla, Amazon, Meta Platforms, or Netflix?",
+"description": "NEW YORK, Sept. 26, 2022 /PRNewswire/ -- InvestorsObserver issues critical PriceWatch Alerts for WYNN, TSLA, AMZN, META, and NFLX. Click a link below then choose between in-depth options trade idea report or a stock score report. Options Report – Ideal trade …",
+"url": "https://www.prnewswire.com/news-releases/thinking-about-trading-options-or-stock-in-wynn-resorts-tesla-amazon-meta-platforms-or-netflix-301633036.html",
+"urlToImage": "https://mma.prnewswire.com/media/1333368/InvestorsObserver_Logo.jpg?p=facebook",
+"publishedAt": "2022-09-26T13:31:00Z",
+"content": "NEW YORK, Sept. 26, 2022 /PRNewswire/ -- InvestorsObserver issues critical PriceWatch Alerts for WYNN, TSLA, AMZN, META, and NFLX.\r\nClick a link below then choose between in-depth options trade idea … [+801 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Niemanlab.org"
+},
+"author": "Teresa Carr",
+"title": "Researchers ask: Does enforcing civility stifle online debate?",
+"description": "In poll after poll, Americans say they are deeply concerned about rising incivility online. And extensive social media research has focused on how to counteract online incivility. But with Civic Signals, a project of the National Conference on Citizenship and…",
+"url": "https://www.niemanlab.org/2022/09/researchers-ask-does-enforcing-civility-stifle-online-debate/",
+"urlToImage": "https://www.niemanlab.org/images/claudio-schwarz-k39RGHmLoV8-unsplash-2-700x467.jpg",
+"publishedAt": "2022-09-26T13:26:19Z",
+"content": "In poll after poll, Americans say they are deeply concerned about rising incivility online. And extensive social media research has focused on how to counteract online incivility. But with Civic Sign… [+12749 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "City A.M."
+},
+"author": "Ilaria Grasso Macola",
+"title": "Volkswagen joins materials firm Umicore on £2.6bn battery venture",
+"description": "Volkswagen has teamed up with Belgian materials firm Umicore and announced a €3bn (£2.6bn) battery parts joint venture.  The German powerhouse is the latest automotive maker aiming to bring battery production in-house to protect it from geopolitical tensions …",
+"url": "https://www.cityam.com/volkswagen-joins-materials-firm-umicore-on-2-6bn-battery-venture/",
+"urlToImage": "https://www.cityam.com/wp-content/uploads/2022/09/GettyImages-1173542570.jpg",
+"publishedAt": "2022-09-26T13:15:46Z",
+"content": "Monday 26 September 2022 2:15 pm\r\nVolkswagen has teamed up with Belgian materials firm Umicore and announced a 3bn (£2.6bn) battery parts joint venture. (Photo by Sean Gallup/Getty Images)\r\nVolkswage… [+1388 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Dawn Geske",
+"title": "Make $100 To Slam Elon Musk: Billionaire Offering Cash For Criticism Of Tesla CEO",
+"description": "Actors will be paid to perform in the \"Man Vs Musk\" film, which will highlight the dangers of distracted driving.",
+"url": "https://www.ibtimes.com/make-100-slam-elon-musk-billionaire-offering-cash-criticism-tesla-ceo-3616975",
+"urlToImage": "https://d.ibtimes.com/en/full/3808547/twitter-will-have-turn-over-additional-account-data-elon-musk-part-their-legal-fight.jpg",
+"publishedAt": "2022-09-26T13:07:39Z",
+"content": "As part of an effort to highlight the dangers of distracted driving, a filmmaker is calling for 75 to 100 people to call out Tesla CEO Elon Musk and the risks of the automaker's Autopilot feature. In… [+2629 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Hamna Asim",
+"title": "10 Best Stocks to Buy for Deflation",
+"description": "In this article, we discuss 10 best stocks to buy for deflation. If you want to see more stocks in this selection, click 5 Best Stocks to Buy for Deflation. ...",
+"url": "https://finance.yahoo.com/news/10-best-stocks-buy-deflation-130716841.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/1Zv7ydYZkbMZWhb6GzR5JA--~B/aD02MDA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/046cfac51a89e8f1ce030c5e4c35cae3",
+"publishedAt": "2022-09-26T13:07:16Z",
+"content": "In this article, we discuss 10 best stocks to buy for deflation. If you want to see more stocks in this selection, click 5 Best Stocks to Buy for Deflation. \r\nDeflation refers to the decline in price… [+16232 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Usman Kabir",
+"title": "10 Best Oil Stocks To Buy According To Hedge Funds",
+"description": "In this article, we discuss the 10 best oil stocks to buy according to hedge funds. If you want to read about some more oil stocks, go directly to 5 Best Oil...",
+"url": "https://finance.yahoo.com/news/10-best-oil-stocks-buy-130616138.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/b0kkuZipJp6h8BPQ0FTmAw--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/a059ce49e6ad75bfa022f0aa2689a51c",
+"publishedAt": "2022-09-26T13:06:16Z",
+"content": "In this article, we discuss the 10 best oil stocks to buy according to hedge funds. If you want to read about some more oil stocks, go directly to 5 Best Oil Stocks To Buy According To Hedge Funds.\r\n… [+12635 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Shreyashi Sanyal",
+"title": "Wall Street Eyes Lower Open On Rate Hike, Recession Worries",
+"description": "U.S. stock indexes headed for a lower open on Monday as investors worried that the Federal Reserve's aggressive push to curb inflation may tip the country's economy into recession.",
+"url": "https://www.ibtimes.com/wall-street-eyes-lower-open-rate-hike-recession-worries-3616983",
+"urlToImage": "https://d.ibtimes.com/en/full/3822363/traders-work-floor-nyse-new-york.jpg",
+"publishedAt": "2022-09-26T13:06:13Z",
+"content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., September 7, 2022. \r\nU.S. stock indexes headed for a lower open on Monday as investors worried that the Federal… [+2272 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Reuters",
+"title": "Fisker to sell electric SUV in India with view to local production",
+"description": "Sales of electric cars in India will gather pace by 2025-26, Henrik Fisker said and added that the company wants to secure a first-mover advantage",
+"url": "https://www.business-standard.com/article/automobile/fisker-to-sell-electric-suv-in-india-with-view-to-local-production-122092600976_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/26/full/1664197457-4334.jpg",
+"publishedAt": "2022-09-26T13:05:55Z",
+"content": "US startup Fisker Inc will begin selling its Ocean electric sport-utility vehicle (SUV) in India next July and could begin manufacturing its cars locally within a few years, the company's chief execu… [+2784 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Wire"
+},
+"author": null,
+"title": "Definity First Recognized in Gartner® 2022 Market Guide for Microsoft Product Support Services, Worldwide",
+"description": "SAN DIEGO--(BUSINESS WIRE)--Definity First is pleased to announce that it has been selected by Gartner in the 2022 Market Guide for Microsoft Product Support Services, Worldwide.",
+"url": "https://www.businesswire.com/news/home/20220922005937/en/Definity-First-Recognized-in-Gartner%C2%AE-2022-Market-Guide-for-Microsoft-Product-Support-Services-Worldwide",
+"urlToImage": "https://mms.businesswire.com/media/20220922005937/en/1580991/23/DF-Logo-500x150px-150dpi.jpg",
+"publishedAt": "2022-09-26T13:05:13Z",
+"content": "SAN DIEGO--(BUSINESS WIRE)--Definity First, professional IT consulting firm, is pleased to announce that it has been selected as a representative vendor in the 2022 Market Guide for Microsoft Product… [+3613 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Ahan Vashi",
+"title": "Opendoor: A Generational Buy For Bold, Contrarian, Long-Term Investors",
+"description": "Opendoor has ample liquidity to get through this downturn in the housing market. Read why I rate OPEN stock a generational buy at $3.",
+"url": "https://seekingalpha.com/article/4542977-opendoor-generational-buy",
+"urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1151359639/image_1151359639.jpg?io=getty-c-w750",
+"publishedAt": "2022-09-26T13:00:00Z",
+"content": "Andrii Yalanskyi/iStock via Getty Images\r\nIntroduction\r\n Opendoor's (NASDAQ:OPEN) stock tanked by ~26% last week after a report (released on Monday, 19th September 2022) revealed that the iBuyer lost… [+27520 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Brad Templeton, Senior Contributor, \n Brad Templeton, Senior Contributor\n https://www.forbes.com/sites/bradtempleton/",
+"title": "Why Don’t You Have A Self-Driving Car Yet? This 2-Part Series Explains The Big Remaining Problems",
+"description": "What are the blocking factors sitting in the way of deployment of robocars?  We look at the major ones — plus there's an optional video with illustrations",
+"url": "https://www.forbes.com/sites/bradtempleton/2022/09/26/why-dont-you-have-a-self-driving-car-yet--this-2-part-series-explains-the-big-remaining-problems/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6327a1865da4cf4cb37a03a3/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2022-09-26T13:00:00Z",
+"content": "When will you have or ride in a self-driving car? What's stopping you?\r\nBrad Templeton / Cruise\r\nPeople often ask, Wheres my self-driving car? Why dont I have one and when will it come? A lot of peop… [+13314 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Notebookcheck.net"
+},
+"author": "Daniel Zlatev",
+"title": "Elon Musk opponent hiring influencers to badmouth Tesla's self-driving mode at US$100 a pop",
+"description": "One self-described 'concerned citizen' is producing a short film aiming to promote his efforts to raise awareness about distracted driving in Tesla vehicles. The project will be giving US$100 to at least 75 social media personalities to record a short denounc…",
+"url": "https://www.notebookcheck.net/Elon-Musk-opponent-hiring-influencers-to-badmouth-Tesla-s-self-driving-mode-at-US-100-a-pop.657718.0.html",
+"urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/tesla_fsd_view97.jpg",
+"publishedAt": "2022-09-26T12:48:00Z",
+"content": "Instead of logging Tesla's Full Self-Driving Beta mode errors and reporting them in order to improve the autonomous driving system, a \"concerned citizen\" is looking for negative input from social med… [+2119 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Innovator Capital Management",
+"title": "Innovator Preps Largest Reset of Defined Outcome ETF™ Lineup to Date Amid Trying Year for Stocks and Bonds, Announces New Upside Cap Ranges for Coming Year and Quarter",
+"description": "Lineup of October Buffer ETFs™ have exhibited decreased downside and volatility relative to reference assets in the current outcome period marked by significant market losses",
+"url": "https://www.globenewswire.com/news-release/2022/09/26/2522583/0/en/Innovator-Preps-Largest-Reset-of-Defined-Outcome-ETF-Lineup-to-Date-Amid-Trying-Year-for-Stocks-and-Bonds-Announces-New-Upside-Cap-Ranges-for-Coming-Year-and-Quarter.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/3c2b9f5b-d37c-45b4-8238-47a79ed72a30?size=1",
+"publishedAt": "2022-09-26T12:47:00Z",
+"content": "Lineup of October Buffer ETFs have exhibited decreased downside and volatility relative to reference assets in the current outcome period marked by significant market losses\r\nFlagship Innovator U.S. … [+40223 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Jones Futures Continue To Fall As Stock Market Correction Worsens; Treasury Yields Surge",
+"description": "The 10-year Treasury yield surged to 3.78% Monday, hitting a new high.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-continue-to-fall-as-stock-market-correction-worsens-treasury-yields-surge/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+"publishedAt": "2022-09-26T12:36:01Z",
+"content": "Dow Jones futures briefly dropped more than 200 points Monday morning, threatening to extend a losing streak to four sessions. Last week, the Dow Jones Industrial Average sold off with heavy losses a… [+6772 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "Outlook on the Electric Vehicle Charging Infrastructure Global Market to 2031 - Increasing Production and Sales of Electric Vehicles and Hybrid Vehicles is Driving Growth",
+"description": "DUBLIN, Sept. 26, 2022 /PRNewswire/ -- The \"Global Electric Vehicle Charging Infrastructure Market 2021-2031 by Component, Connector, Charger Type, Charging Mode, Charging Voltage, Location, Vehicle Type, Application, and Region: Trend Forecast and Growth Opp…",
+"url": "https://www.prnewswire.com/news-releases/outlook-on-the-electric-vehicle-charging-infrastructure-global-market-to-2031---increasing-production-and-sales-of-electric-vehicles-and-hybrid-vehicles-is-driving-growth-301632895.html",
+"urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+"publishedAt": "2022-09-26T12:30:00Z",
+"content": "DUBLIN, Sept. 26, 2022 /PRNewswire/ -- The \"Global Electric Vehicle Charging Infrastructure Market 2021-2031 by Component, Connector, Charger Type, Charging Mode, Charging Voltage, Location, Vehicle … [+5857 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Reuters",
+"title": "Why Twitter's interview with Elon Musk may get very interesting",
+"description": "Filed under:\n Government/Legal,Green,Tesla\n Continue reading Why Twitter's interview with Elon Musk may get very interesting\nWhy Twitter's interview with Elon Musk may get very interesting originally appeared on Autoblog on Mon, 26 Sep 2022 08:28:00 EDT. Plea…",
+"url": "https://www.autoblog.com/2022/09/26/elon-musk-twitter-legal-deposition-interview/",
+"urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/3678x2069+0+166/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-08/1ffd1850-01bd-11ec-bbdb-b1809a39bb81",
+"publishedAt": "2022-09-26T12:28:00Z",
+"content": "WILMINGTON, Del Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter are due to interview the Tesla CEO about… [+4073 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "The Worldwide Electric Vehicle Battery Management System Industry is Expected to Reach $21 Billion by 2031",
+"description": "DUBLIN, Sept. 26, 2022 /PRNewswire/ -- The \"Global Electric Vehicle Battery Management System Market 2021-2031 by Component, Product Type, Application, Battery Type, Propulsion Type, Vehicle Type, and Region: Trend Forecast and Growth Opportunity\" report has …",
+"url": "https://www.prnewswire.com/news-releases/the-worldwide-electric-vehicle-battery-management-system-industry-is-expected-to-reach-21-billion-by-2031-301632879.html",
+"urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+"publishedAt": "2022-09-26T12:15:00Z",
+"content": "DUBLIN, Sept. 26, 2022 /PRNewswire/ -- The \"Global Electric Vehicle Battery Management System Market 2021-2031 by Component, Product Type, Application, Battery Type, Propulsion Type, Vehicle Type, an… [+5732 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Research and Markets",
+"title": "Global Synergy-Autonomous Car and 5G Technologies Market Research Report 2022: Identify Major Industry Players and their Portfolios",
+"description": "Dublin, Sept. 26, 2022 (GLOBE NEWSWIRE) -- The \"Synergy - Autonomous Car and 5G Technologies: Markets, Standardization, Technologies\" report has been added...",
+"url": "https://finance.yahoo.com/news/global-synergy-autonomous-car-5g-120800221.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/HP.E8HUfnyGeLtMAKwLgAQ--~B/aD01ODt3PTQ4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/93d5b27580f67db722dd7c112e43e8bc",
+"publishedAt": "2022-09-26T12:08:00Z",
+"content": "Dublin, Sept. 26, 2022 (GLOBE NEWSWIRE) -- The \"Synergy - Autonomous Car and 5G Technologies: Markets, Standardization, Technologies\" report has been added to ResearchAndMarkets.com's offering.\r\nThe … [+10602 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Research and Markets",
+"title": "Global Synergy-Autonomous Car and 5G Technologies Market Research Report 2022: Identify Major Industry Players and their Portfolios",
+"description": "Dublin, Sept. 26, 2022 (GLOBE NEWSWIRE) -- The \"Synergy - Autonomous Car and 5G Technologies: Markets, Standardization, Technologies\" report has been added to ResearchAndMarkets.com's offering.",
+"url": "https://www.globenewswire.com/news-release/2022/09/26/2522525/28124/en/Global-Synergy-Autonomous-Car-and-5G-Technologies-Market-Research-Report-2022-Identify-Major-Industry-Players-and-their-Portfolios.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7?size=1",
+"publishedAt": "2022-09-26T12:08:00Z",
+"content": "Dublin, Sept. 26, 2022 (GLOBE NEWSWIRE) -- The \"Synergy - Autonomous Car and 5G Technologies: Markets, Standardization, Technologies\" report has been added to ResearchAndMarkets.com's offering.\r\nThe … [+10214 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motor Authority"
+},
+"author": "news@motorauthority.com (Viknesh Vijayenthiran), Viknesh Vijayenthiran",
+"title": "Audi teases updated E-Tron",
+"description": "Audi is working on a major update for its E-Tron and E-Tron Sportback, and a lightly camouflaged prototype for the former is taking part in the E-Cannonball rally which set off on Sept. 23 from the German city of Hamburg. The prototype's livery highlights som…",
+"url": "https://www.motorauthority.com/news/1137272_audi-teases-updated-e-tron",
+"urlToImage": "https://images.hgmsites.net/hug/teaser-for-updated-audi-e-tron_100856470_h.jpg",
+"publishedAt": "2022-09-26T12:00:00Z",
+"content": "Audi is working on a major update for its E-Tron and E-Tron Sportback, and a lightly camouflaged prototype for the former is taking part in the E-Cannonball rally which set off on Sept. 23 from the G… [+1636 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "ElevenEs produces a prototype of the largest LFP battery cell in Europe",
+"description": "ElevenEs has completed a 2-year development program and produced a prototype of the largest battery cell in Europe. Customer deliveries to start in the first quarter of 2023. SUBOTICA, Serbia, Sept. 26, 2022 /PRNewswire/ --The first and largest full-size LFP …",
+"url": "https://www.prnewswire.com/news-releases/elevenes-produces-a-prototype-of-the-largest-lfp-battery-cell-in-europe-301632727.html",
+"urlToImage": "https://mma.prnewswire.com/media/1905634/Nemanja_Mikac_CEO_ElevenEs.jpg?p=facebook",
+"publishedAt": "2022-09-26T12:00:00Z",
+"content": "ElevenEs has completed a 2-year development program and produced a prototype of the largest battery cell in Europe. Customer deliveries to start in the first quarter of 2023.\r\nSUBOTICA, Serbia, Sept.… [+3733 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"author": "Explained Desk",
+"title": "Why Iran summoned the envoys of UK and Norway, and the ‘foreign hand’ claim behind hijab protests",
+"description": "Why is Iran blaming the US for the protests blazing across its cities? What has Elon Musk said he will do for the protests?",
+"url": "https://indianexpress.com/article/explained/explained-global/why-iran-summoned-envoys-of-uk-and-norway-hijab-protests-8174100/",
+"urlToImage": "https://images.indianexpress.com/2022/09/Iran-protest-3-1.jpg",
+"publishedAt": "2022-09-26T11:50:17Z",
+"content": "Iran summoned the envoys of Britain and Norway to lodge a protest against hostile reporting and interference in the hijab protests roiling the country, its state media IRNA reported on September 25 (… [+3626 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "rumbleshark",
+"title": "A fire broke out at Tesla Gigafactory Berlin; locals call for production stop",
+"description": "A fire broke out at Tesla's Gigafactory Berlin in the early hours of the morning. A large pile of cardboard and wood caught on fire at the recycling facility located at the factory. The local fire... #thegigafactoryberlin #recyclingfacility #gigafactoryberlin…",
+"url": "https://biztoc.com/p/zi7krwf6?ref=rss",
+"urlToImage": "https://cdn.biztoc.com/og/zi7krwf6.jpg",
+"publishedAt": "2022-09-26T11:40:15Z",
+"content": "A fire broke out at Tesla's Gigafactory Berlin in the early hours of the morning. A large pile of cardboard and wood caught on fire at the recycling facility located at the factory. The local fire de… [+938 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Richmond.com"
+},
+"author": "Associated Press, CNN",
+"title": "13 dead, 21 wounded in school shooting in Russia; Ian strengthens into hurricane; NFL Week 3 recap",
+"description": "Things to know today: 7 children among dead in school shooting in Russia; Ian is now a hurricane aimed at Florida; scores, highlights from NFL's Week 3.",
+"url": "https://richmond.com/news/national/13-dead-21-wounded-in-school-shooting-in-russia-ian-strengthens-into-hurricane-nfl-week/article_5849d7cf-8b00-5d2f-ad78-79d36c4d21a8.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/5/84/5849d7cf-8b00-5d2f-ad78-79d36c4d21a8/633185199b799.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2022-09-26T11:30:00Z",
+"content": "Tesla CEO Elon Musk will spend Monday and Tuesday with lawyers for Twitter, answering questions ahead of an October trial that will determine whether he must fork over the $44 billion he agreed to pa… [+367 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Roanoke Times"
+},
+"author": "Associated Press, CNN",
+"title": "13 dead, 21 wounded in school shooting in Russia; Ian strengthens into hurricane; NFL Week 3 recap",
+"description": "Things to know today: 7 children among dead in school shooting in Russia; Ian is now a hurricane aimed at Florida; scores, highlights from NFL's Week 3.",
+"url": "https://roanoke.com/news/national/13-dead-21-wounded-in-school-shooting-in-russia-ian-strengthens-into-hurricane-nfl-week/article_79ed3b9c-b8c9-5b04-897e-168ad0e970a7.html",
+"urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/9e/79ed3b9c-b8c9-5b04-897e-168ad0e970a7/633185199cd86.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2022-09-26T11:30:00Z",
+"content": "Tesla CEO Elon Musk will spend Monday and Tuesday with lawyers for Twitter, answering questions ahead of an October trial that will determine whether he must fork over the $44 billion he agreed to pa… [+367 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Billings Gazette"
+},
+"author": "Associated Press, CNN",
+"title": "13 dead, 21 wounded in school shooting in Russia; Ian strengthens into hurricane; NFL Week 3 recap",
+"description": "Things to know today: 7 children among dead in school shooting in Russia; Ian is now a hurricane aimed at Florida; scores, highlights from NFL's Week 3.",
+"url": "https://billingsgazette.com/news/national/13-dead-21-wounded-in-school-shooting-in-russia-ian-strengthens-into-hurricane-nfl-week/article_2dc4b5fe-b39e-5c47-bd1e-00d078118cea.html",
+"urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/2/dc/2dc4b5fe-b39e-5c47-bd1e-00d078118cea/63318516ccf97.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+"publishedAt": "2022-09-26T11:30:00Z",
+"content": "Tesla CEO Elon Musk will spend Monday and Tuesday with lawyers for Twitter, answering questions ahead of an October trial that will determine whether he must fork over the $44 billion he agreed to pa… [+367 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "FX Empire"
+},
+"author": "Reuters",
+"title": "Futures shackled by rate-hike, recession worries",
+"description": "(Reuters) -   U.S. stock index futures fell on Monday, kicking off another week on softer footing, as investors worried that the Federal Reserve&#039;s aggressive push to curb inflation may tip the American economy into recession.",
+"url": "https://www.fxempire.com/news/article/futures-shackled-by-rate-hike-recession-worries-1139513",
+"urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/09/tagreuters.com2022newsml_LYNXMPEI8P0EN1.jpg",
+"publishedAt": "2022-09-26T11:21:33Z",
+"content": "The Feds latest signal that high interest rates could last through 2023, sent the three major U.S. stock indexes tumbling between 4% and 5% last week, with the Dow Jones Index coming within spitting … [+1466 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Kirsten Korosec",
+"title": "EV charging deals keep coming, Ford squeezed by shortages and Kitty Hawk shuts down",
+"description": "Supplier shortages squeeze Ford, Larry Page-backed Kitty Hawk shuts down and EV charging deals ramp up in this week's edition of the Station.",
+"url": "https://techcrunch.com/2022/09/26/ev-charging-deals-keep-coming-ford-squeezed-by-shortages-and-kitty-hawk-shuts-down/",
+"urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/REVC_1.jpg?resize=1200,800",
+"publishedAt": "2022-09-26T11:16:02Z",
+"content": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here just click The Station to receive the full edition of the newsletter every weekend in your inbox. This is a sho… [+9258 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Wall Street Breakfast",
+"title": "Wall Street Breakfast September 26: Amazon Prime Day Part 2 (Podcast)",
+"description": "Amazon schedules second prime day sale. Tesla CEO Elon Musk to face deposition with Twitter ahead of October trial. Unilever CEO to depart in 2023, search for replacement underway.",
+"url": "https://seekingalpha.com/article/4543079-wall-street-breakfast-september-26-amazon-prime-day-part-2-podcast",
+"urlToImage": "https://static3.seekingalpha.com/assets/podcasts/wsb-d57bf915fd82bac19817953c2e226c7610de9fc3a36c166d7c276e18e86311ea.png",
+"publishedAt": "2022-09-26T11:15:21Z",
+"content": "Listen on the go! Subscribe to Wall Street Breakfast on Apple Podcasts, Spotify, and Stitcher.\r\n\n \n \n \r\n\n \r\n\n \n \r\n\n \r\n\n\r\n\nAmazon schedules second prime day sale. Tesla CEO Elon Musk to face depositio… [+235 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Futures shackled by rate-hike, recession worries - Reuters",
+"description": "U.S. stock index futures fell on Monday, kicking off another week on softer footing, as investors worried that the Federal Reserve's aggressive push to curb inflation may tip the American economy into recession.",
+"url": "https://www.reuters.com/markets/europe/futures-shackled-by-rate-hike-recession-worries-2022-09-26/",
+"urlToImage": "https://www.reuters.com/resizer/XTnyrdDS-dsDiSl6qAJh9f_ph8g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OMPB6PNEDFPEBHRD4ST2RBWIBI.jpg",
+"publishedAt": "2022-09-26T11:09:00Z",
+"content": "Sept 26 (Reuters) - U.S. stock index futures fell on Monday, kicking off another week on softer footing, as investors worried that the Federal Reserve's aggressive push to curb inflation may tip the … [+2140 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Wall Street Breakfast",
+"title": "Wall Street Breakfast: Goodbye TINA",
+"description": "Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m. on Seeking Alpha, iTunes, Stitcher and Spotify.",
+"url": "https://seekingalpha.com/article/4543075-wall-street-breakfast-goodbye-tina",
+"urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+"publishedAt": "2022-09-26T11:01:37Z",
+"content": "Listen on the go! A daily podcast of Wall Street Breakfast will be available by 8:00 a.m. on Seeking Alpha, iTunes, Stitcher and Spotify.\r\nGoodbye TINA\r\n The latest selloff in stocks and bonds may be… [+7416 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "FX Empire"
+},
+"author": "Reuters",
+"title": "Firefighters extinguish flames on grounds of Tesla’s Germany plant",
+"description": "BERLIN (Reuters) -   A fire that broke out on the grounds of Tesla&#039;s plant in Germany at 0330 local time (0130GMT) on Monday has been extinguished, with no injuries reported, according to the local fire department.",
+"url": "https://www.fxempire.com/news/article/firefighters-extinguish-flames-on-grounds-of-teslas-germany-plant-1139465",
+"urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/09/tagreuters.com2022newsml_LYNXMPEI8P0DE1.jpg",
+"publishedAt": "2022-09-26T10:51:34Z",
+"content": "Teslas fire department took over command of the operation about five hours later, though local firefighters remain on the scene.\r\nThe cause of the fire has not yet been determined and police are look… [+256 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "MarketWatch"
+},
+"author": "Barbara Kollmeyer",
+"title": "Need to Know: Morgan Stanley says investors should consider this port in the market storm right now",
+"description": "Where do investors turn in turbulent markets? Investment-grade bonds, says Morgan Stanley.",
+"url": "https://www.marketwatch.com/story/morgan-stanley-says-investors-should-consider-this-port-in-the-market-storm-right-now-11664189212",
+"urlToImage": "https://images.mktw.net/im-630827/social",
+"publishedAt": "2022-09-26T10:51:12Z",
+"content": "The great British pound selloff, credited with exacerbating a global rout for markets last week, looks set to continue wreaking some havoc on Monday. Economic woes in Old Blighty are adding to the ma… [+7083 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "MarketWatch"
+},
+"author": "Barbara Kollmeyer",
+"title": "Morgan Stanley says investors should consider this port in the market storm right now",
+"description": "Where do investors turn in turbulent markets? Investment-grade bonds, says Morgan Stanley.",
+"url": "https://www.marketwatch.com/story/morgan-stanley-says-investors-should-consider-this-port-in-the-market-storm-right-now-11664189212",
+"urlToImage": "https://images.mktw.net/im-630827/social",
+"publishedAt": "2022-09-26T10:46:00Z",
+"content": "The great British pound selloff, credited with exacerbating a global rout for markets last week, looks set to continue wreaking some havoc on Monday. Economic woes in Old Blighty are adding to the ma… [+7083 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Firefighters extinguish flames on grounds of Tesla's Germany plant",
+"description": "A fire that broke out on the grounds of Tesla's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> plant in Germany at 0330 local time (0130GMT) on Monday has been extinguished, with no injuries reported, according to the local fi…",
+"url": "https://www.reuters.com/business/autos-transportation/firefighters-extinguish-flames-grounds-teslas-germany-plant-2022-09-26/",
+"urlToImage": "https://www.reuters.com/resizer/bsFdTUXildW0c4kzyMojdhw05Tw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/74Y67DQDDZKPHOXYB445HM5Q64.jpg",
+"publishedAt": "2022-09-26T10:42:52Z",
+"content": "BERLIN, Sept 26 (Reuters) - A fire that broke out on the grounds of Tesla's (TSLA.O) plant in Germany at 0330 local time (0130GMT) on Monday has been extinguished, with no injuries reported, accordin… [+806 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Reuters",
+"title": "Firefighters extinguish flames on grounds of Tesla's Germany plant",
+"description": "A fire that broke out on the grounds of Tesla's plant in Germany at 0330 local time (0130GMT) on Monday has been extinguished, with no injuries reported...",
+"url": "https://finance.yahoo.com/news/firefighters-extinguish-flames-grounds-teslas-104228751.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/AwLAJRSEpal7IfjTN3Sd6A--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/f89dd576be9187ac27ab20d24621ee05",
+"publishedAt": "2022-09-26T10:42:28Z",
+"content": "BERLIN (Reuters) - A fire that broke out on the grounds of Tesla's plant in Germany at 0330 local time (0130GMT) on Monday has been extinguished, with no injuries reported, according to the local fir… [+671 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Notebookcheck.net"
+},
+"author": "Daniel Zlatev",
+"title": "World's fastest commercial EV charging stations go live in several cities",
+"description": "The new S4 charging stations are strategically located in major cities and can bring a G9's 96kWh battery to 80% in just 15 minutes, adding more than 300 miles of extra range. XPeng plans to have 2000 such ultrafast charging stations by 2025.",
+"url": "https://www.notebookcheck.net/World-s-fastest-commercial-EV-charging-stations-go-live-in-several-cities.657629.0.html",
+"urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/What_can_you_do_in_5_minutes__0_19_screenshot_copy.jpg",
+"publishedAt": "2022-09-26T10:39:00Z",
+"content": "After launching China's first commercially available electric vehicle with 800V carborundum platform that allows ultrafast charging for US$44,000, XPeng has now started providing the 480kW S4 chargin… [+1607 chars]"
+},
+-{
+-"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "CBS News",
+"title": "Tesla lawyers to question Elon Musk ahead of trial: CBS News Flash Sept. 26, 2022",
+"description": "Elon Musk will answer questions from Tesla lawyers this week ahead of a trial that could determine whether the Tesla CEO has to go ahead with his $44 billion purchase of the social media platform. Vice President Kamala Harris is in Tokyo to attend a memorial …",
+"url": "https://www.cbsnews.com/video/tesla-lawyers-to-question-elon-musk-ahead-of-trial-cbs-news-flash-sept-26-2022/",
+"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/26/22f2b856-6944-4726-84bf-0ca1c72f3823/thumbnail/1200x630/7a384fe9247b21d9114deb5e6b0192ab/newsflash092622-1320804-640x360.jpg",
+"publishedAt": "2022-09-26T10:34:26Z",
+"content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Tom Hals",
+"title": "Twitter To Interview Elon Musk, Known For Combative Testimony",
+"description": "Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc are due to interview the Tesla Inc CEO about his abrupt decision in July to ditch his $44 billion deal for the s…",
+"url": "https://www.ibtimes.com/twitter-interview-elon-musk-known-combative-testimony-3616935",
+"urlToImage": "https://d.ibtimes.com/en/full/3822267/illustration-shows-elon-musks-twitter-profile-smartphone-printed-twitter-logos.jpg",
+"publishedAt": "2022-09-26T10:24:11Z",
+"content": "Elon Musk's Twitter profile is seen on a smartphone placed on printed Twitter logos in this picture illustration taken April 28, 2022. \r\nBillionaire Elon Musk's tendency to dish out insults while bei… [+4248 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "FX Empire"
+},
+"author": "Reuters",
+"title": "Twitter to interview Elon Musk, known for combative testimony",
+"description": "By Tom Hals WILMINGTON, Del (Reuters) -   Billionaire Elon Musk&#039;s tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc are due to interview the Tesla Inc CEO about his abrupt decision …",
+"url": "https://www.fxempire.com/news/article/twitter-to-interview-elon-musk-known-for-combative-testimony-1139408",
+"urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/09/tagreuters.com2022newsml_LYNXMPEI8P0C83.jpg",
+"publishedAt": "2022-09-26T10:21:34Z",
+"content": "Testifying in past legal battles, the worlds richest person has called opposing attorneys reprehensible, questioned their happiness and accused them of extortion. He asked one attorney if he was work… [+3872 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Twitter to interview Elon Musk, known for combative testimony - Reuters",
+"description": "Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> are due to interview the Tesla I…",
+"url": "https://www.reuters.com/markets/deals/twitter-interview-elon-musk-known-combative-testimony-2022-09-26/",
+"urlToImage": "https://www.reuters.com/resizer/qIwv3t061MGoTp2rSA67gNwMIHc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XIS22M2SG5KRVM7HLVYJQ6IQYI.jpg",
+"publishedAt": "2022-09-26T10:16:00Z",
+"content": "WILMINGTON, Del, Sept 26 (Reuters) - Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc (TWTR.N) are du… [+4438 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TechSpot"
+},
+"author": "Rob Thubron",
+"title": "Microsoft: bosses believe workers are less productive at home, exacerbating 'productivity theater'",
+"description": "Many studies have been carried out on working from home and how it impacts productivity. Nearly all of them show that the increased happiness felt by employees translates into more efficient staff, but it seems managers don't agree.",
+"url": "https://www.techspot.com/news/96097-microsoft-study-shows-bosses-think-workers-less-productive.html",
+"urlToImage": "https://static.techspot.com/articles-info/2011/images/2020-04-14-image.jpg",
+"publishedAt": "2022-09-26T10:16:00Z",
+"content": "In context: Does your boss think you spend all day 'working' from home in your dressing gown, taking regular breaks to stuff your face/get drunk/watch Pornhub? They aren't alone in believing that rem… [+2842 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Tom Hals",
+"title": "Twitter to interview Elon Musk, known for combative testimony",
+"description": "Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc are due to...",
+"url": "https://finance.yahoo.com/news/twitter-interview-elon-musk-known-101443016.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/W1BPz4tSx4YzntcpnCHbjA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e241bc4409ac1b1356a448f1dd5bee5c",
+"publishedAt": "2022-09-26T10:14:43Z",
+"content": "By Tom Hals\r\nWILMINGTON, Del (Reuters) - Billionaire Elon Musk's tendency to dish out insults while being questioned under oath will be tested anew on Monday, when lawyers for Twitter Inc are due to … [+4236 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "WCNC.com"
+},
+"author": "Meilin Tompkins",
+"title": "Why are fewer people buying convertibles?",
+"description": "A century ago, nearly all cars were open-aired or convertibles and hardtop was a premium option. Now it's the opposite, with convertibles costing more for consumers.",
+"url": "https://www.wcnc.com/article/news/local/connect-the-dots/convertible-sales-down-money-connect-the-dots-cars/275-fe7dbe02-03b5-43a8-8445-a503aacc2748",
+"urlToImage": "https://media.wcnc.com/assets/WCNC/images/bca0b178-52bc-4bed-90c4-3a0614984983/bca0b178-52bc-4bed-90c4-3a0614984983_1140x641.jpg",
+"publishedAt": "2022-09-26T10:13:32Z",
+"content": "CHARLOTTE, N.C. Why are fewer people buying convertibles?\r\nLet's connect the dots.\r\nSales of traditional drop-tops and roadsters have plummeted in the US to less than 100,000 vehicles annually. That'… [+2111 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "City A.M."
+},
+"author": "Darren Parkin",
+"title": "Bitcoin price marked lowest weekly close since November 2020",
+"description": "The price of Bitcoin remains below $19,000 this morning, where it’s been for most of the past week. \nThe post Bitcoin price marked lowest weekly close since November 2020 appeared first on CityAM.",
+"url": "https://www.cityam.com/bitcoin-price-marked-lowest-weekly-close-since-november-2020/",
+"urlToImage": "https://www.cityam.com/wp-content/uploads/2022/08/CAMD-G89-1024-luno.jpg",
+"publishedAt": "2022-09-26T10:06:04Z",
+"content": "Monday 26 September 2022 11:06 am\r\nThe price of Bitcoin remains below $19,000 this morning, where its been for most of the past week. \r\nThe largest cryptocurrency by market capitalisation was changin… [+5300 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Fred Lambert",
+"title": "A fire broke out at Tesla Gigafactory Berlin; locals call for production stop",
+"description": "A fire broke out at Tesla Gigafactory Berlin’s recycling plant in the early hours of the morning, and now a local group that has been fighting the project is using the fire to call for stopping production.\n more…\nThe post A fire broke out at Tesla Gigafactory…",
+"url": "https://electrek.co/2022/09/26/fire-tesla-gigafactory-berlin-locals-call-production-stop/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Gigafactory-Berlin-Fire-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2022-09-26T10:01:06Z",
+"content": "A fire broke out at Tesla Gigafactory Berlin’s recycling plant in the early hours of the morning, and now a local group that has been fighting the project is using the fire to call for stopping produ… [+2345 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Greg Rasa",
+"title": "2022 BMW i4 M50 Road Test Review: Why get the gas version?",
+"description": "Filed under:\n BMW,Electric,Luxury,Road Tests\n Continue reading 2022 BMW i4 M50 Road Test Review: Why get the gas version?\n2022 BMW i4 M50 Road Test Review: Why get the gas version? originally appeared on Autoblog on Mon, 26 Sep 2022 06:00:00 EDT. Please see o…",
+"url": "https://www.autoblog.com/2022/09/26/2022-bmw-i4-m50-road-test/",
+"urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/09/23193410/BMW-i4-M50-61.jpg",
+"publishedAt": "2022-09-26T10:00:00Z",
+"content": "On our way to a future dedicated to EVs, BMW has taken transitional steps, placing electric powerplants into some vehicles previously dedicated to internal combustion. Case in point: the BMW i4.\r\nAn … [+7607 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Ragan.com"
+},
+"author": "Sean Devlin",
+"title": "What the post-Labor Day return to office means now",
+"description": "While the trickle of employees returning to work has been somewhat steady, things have clearly changed. Will employee perks bring back more workers to the office? Earlier this year a number of notable companies, including Apple and Tesla, sent out memos to th…",
+"url": "https://www.ragan.com/in-person-work-remote-work-perks/",
+"urlToImage": "https://s39939.pcdn.co/wp-content/uploads/2022/09/iStock-1356122303.jpg",
+"publishedAt": "2022-09-26T10:00:00Z",
+"content": "How are in-office and remote work situations changing now that summer is over?\r\nEarlier this year a number of notable companies, including Apple and Tesla, sent out memos to their employees stating t… [+3576 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "AutoExpress"
+},
+"author": "Yousuf Ashraf",
+"title": "New 2022 Weismann Thunderball available to order now",
+"description": "Customers can reserve a built slot for Weismann’s all-electric Thunderball roadster, which offers 671bhp and a 310-mile range",
+"url": "https://www.autoexpress.co.uk/news/357538/new-2022-weismann-thunderball-available-order-now",
+"urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1651062787/autoexpress/2022/04/Weismann Thunderball.jpg",
+"publishedAt": "2022-09-26T09:55:00Z",
+"content": "Independent German sports car manufacturer Weismann is now taking reservations for the Thunderball - its new, retro-inspired roadster that takes the firm into the electric age. \r\nAs the latest in the… [+2396 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "DW (English)"
+},
+"author": "Deutsche Welle (www.dw.com)",
+"title": "Why companies want employees back in the office",
+"description": "Employers that want workers back in office may want to capture gains from in-person interaction that cannot be measured by productivity alone.",
+"url": "https://www.dw.com/en/why-companies-want-workers-to-return-to-work/a-63194277",
+"urlToImage": "https://static.dw.com/image/56177417_6.jpg",
+"publishedAt": "2022-09-26T09:47:00Z",
+"content": "Yashovardhan Agrawal is a developer relations specialist. Agrawal has juggled remote work from his home in Prayagraj, India, for multinational companies across three time zones: Singapore, Brazil and… [+6024 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Boston Globe"
+},
+"author": "David Abel",
+"title": "To speed the end of fossil fuels, local researchers are designing a cheaper, safer battery",
+"description": "Researchers and companies around the world are racing to solve the problem of storing clean energy when the sun isn’t shining on solar farms or the wind isn’t turning turbines.",
+"url": "https://www.bostonglobe.com/2022/09/26/science/speed-end-fossil-fuels-local-researchers-are-designing-cheaper-safer-battery/",
+"urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YH_8PZTleyAFWRDiGowmPxRJub0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DVVIVKHYDXOP2GCZUZPJHCFDZ4.jpg",
+"publishedAt": "2022-09-26T09:45:33Z",
+"content": "Researchers and companies around the world are racing to solve the problem of storing clean energy when the sun isnt shining on solar farms or the wind isnt turning turbines. Of course, good batterie… [+8835 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Trevor Jennewine)",
+"title": "1 Stock-Split Stock That Turned $50,000 Into $1 Million in Less Than 10 Years",
+"description": "This growth stock has generated electrifying returns for shareholders.",
+"url": "https://www.fool.com/investing/2022/09/26/1-stock-split-stock-that-turned-50000-to-1-million/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/702354/0x0-destinationcharging_03.jpg",
+"publishedAt": "2022-09-26T09:35:00Z",
+"content": "Legendary investor Peter Lynch once said, \"All you need for a lifetime of successful investing is a few big winners, and the pluses from those will overwhelm the minuses from the stocks that don't wo… [+5127 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "IANS",
+"title": "SpaceX has now manufactured over 1 million Starlink terminals: Elon Musk",
+"description": "SpaceX has manufactured more than 1 million Starlink terminals in the past few months since pre-orders for the satellite internet system were made available, Elon Musk has announced",
+"url": "https://www.business-standard.com/article/international/spacex-has-now-manufactured-over-1-million-starlink-terminals-elon-musk-122092600556_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/19/full/1660875783-8435.jpg",
+"publishedAt": "2022-09-26T09:17:00Z",
+"content": "SpaceX has manufactured more than 1 million Starlink terminals in the past few months since pre-orders for the satellite internet system were made available, Elon Musk has announced.\r\nOn the microblo… [+1250 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Madshrimps.be"
+},
+"author": "Stefan Mileschin",
+"title": "Tesla to recall more than a million vehicles over pinchy windows",
+"description": "More than a million Tesla owners will have yet another recall notice to deal with in the coming weeks. On Tuesday the National Highway Traffic Safety Administration filed a safety recall notice for numerous late model vehicles from across the EV maker's lineu…",
+"url": "http://www.madshrimps.be/news/item/217652",
+"urlToImage": null,
+"publishedAt": "2022-09-26T09:15:10Z",
+"content": "Copyright © 2001-2011 Madshrimps, All rights reserved.Graphic Design by Dennis Kestelle, Programming by Maarten Menten,\r\nOverall Site design by John Meys\r\nAll information and graphics contained in Ma… [+135 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Chuck Saletta)",
+"title": "Better Buy: Tesla Stock or the Entire Nasdaq?",
+"description": "In a battle between one of America's favorite stocks and a currently out-of-favor index, which will wind up on top?",
+"url": "https://www.fool.com/investing/2022/09/26/better-buy-tesla-stock-or-the-entire-nasdaq/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/702370/electric-car-charging-gettyimages-1151450738.jpg",
+"publishedAt": "2022-09-26T09:15:00Z",
+"content": "Few companies have quite the public following of electric-car company Tesla (TSLA -4.59%). Under the leadership of Elon Musk, its pioneering electric cars have changed the game so much that Californi… [+5258 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "MarketWatch"
+},
+"author": "Sean Tucker",
+"title": "If chip production is recovering, why are automakers still making fewer cars?",
+"description": "Car makers will 3.23 million fewer vehicles this year than planned, even though global microchip production is beginning to recover. What's going on?",
+"url": "https://www.marketwatch.com/story/if-chip-production-is-recovering-why-are-automakers-still-making-fewer-cars-11663875640",
+"urlToImage": "https://images.mktw.net/im-629189/social",
+"publishedAt": "2022-09-26T09:01:00Z",
+"content": "Automakers trimmed 76,000 vehicles from global production plans in mid-September, according to analysts from AutoForecast Solutions. Theyll produce about 3.23 million fewer this year than planned, th… [+6865 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Paul Tan's Automotive News"
+},
+"author": "Gerard Lye",
+"title": "Tesla recalls 1.1 million cars for faulty power window anti-pinch system – fix via OTA software update",
+"description": "Tesla has issued a recall for nearly 1.1 million vehicles in the United States due to an issue involving its power windows, Reuters reports. According to the National Highway Traffic Safety Administration (NHTSA), affected vehicles […]\nThe post Tesla recalls …",
+"url": "https://paultan.org/2022/09/26/tesla-recalls-1-1-million-cars-for-faulty-power-window-anti-pinch-system-fix-via-ota-software-update/",
+"urlToImage": "https://paultan.org/image/2021/10/Tesla-Supercharger-12-e1635519954849-1200x527.jpg",
+"publishedAt": "2022-09-26T07:32:05Z",
+"content": "Tesla has issued a recall for nearly 1.1 million vehicles in the United States due to an issue involving its power windows, Reuters reports. According to the National Highway Traffic Safety Administr… [+1225 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Windows Central"
+},
+"author": "jez@windowscentral.com (Jez Corden)",
+"title": "Microsoft CEO says bosses are scared that you slack off while working from home",
+"description": "Microsoft CEO Satya Nadella made some comments about the debate over home working culture popularized by the pandemic.",
+"url": "https://www.windowscentral.com/microsoft/microsoft-ceo-says-bosses-are-scared-that-you-slack-off-while-working-from-home",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/QWzQKFsQTREfwgM9V9pWoD-1200-80.jpg",
+"publishedAt": "2022-09-26T07:29:17Z",
+"content": "<ul><li>Remote work has grown popular following global lockdowns from the Covid-19 pandemic. </li><li>There's a debate among workers and their employees over how much working from home impacts produc… [+3006 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Firstpost"
+},
+"author": "The Associated Press",
+"title": "Twitter set to depose Elon Musk this week, ahead of their October 17 trial",
+"description": "Elon Musk had agreed in April to buy Twitter, take it private and to loosen the company's policing of content and root out fake accounts. After backing out of the deal citing irregularities in Twitter's userbase, Musk was sued by Twitter",
+"url": "https://www.firstpost.com/tech/news-analysis/twitter-set-to-depose-elon-musk-this-week-ahead-of-their-october-17-trial-11333391.html",
+"urlToImage": "https://images.firstpost.com/wp-content/uploads/2022/09/Twitter-set-to-depose-Elon-Musk-this-week-ahead-of-their-October-17-trial.jpg",
+"publishedAt": "2022-09-26T07:25:03Z",
+"content": "The Associated PressSep 26, 2022 12:59:23 IST\r\nTesla CEO Elon Musk is scheduled to spend the next few days with lawyers for Twitter, answering questions ahead of an October trialthat will determine w… [+1200 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Eevblog.com"
+},
+"author": "EEVblog, David L. Jones",
+"title": "EEVblog 1502 – Is Home Battery Storage Financially Viable?",
+"description": "Running through the numbers to see if home battery storage is viable on my home. And comparing Tesla Powerwall, Enphase IQ Battery, BYD LVS, and Greenbank battery pricing. All my solar videos: https://www.youtube.com/playlist?list=PLvOlSehNtuHvPZ1-dDC449w_r2M…",
+"url": "https://www.eevblog.com/2022/09/26/eevblog-1502-is-home-battery-storage-financially-viable/",
+"urlToImage": "https://www.eevblog.com/wp-content/uploads/2022/09/eevblog-1502-is-home-battery-sto-660x330.jpg",
+"publishedAt": "2022-09-26T06:26:12Z",
+"content": "No Script, no fear, all opinion!\r\nThe EEVblog is the world's biggest engineering blog. An off-the-cuff video blog for Electronics Engineers, hobbyists, hackers and makers."
+},
+-{
+-"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "IANS",
+"title": "Elon Musk set to depose before Twitter lawyers ahead of Oct trial",
+"description": "Earlier, in a minor win for Tesla CEO Elon Musk, a US court allowed his legal team to make a case that a $7.75 million severance payment to Peiter 'Mudge' Zatko, Twitter's former head of security, allows him to terminate the $44 billion takeover deal.",
+"url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-set-to-depose-before-twitter-lawyers-ahead-of-oct-trial/articleshow/94447875.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-94447923,width-1070,height-580,imgsize-43062,overlay-ettech/photo.jpg",
+"publishedAt": "2022-09-26T06:21:16Z",
+"content": "Tesla and SpaceX CEO Elon Musk is set to depose before the Twitter lawyers earlier this week in the $44 billion takeover deal that he has terminated.\r\nThe deposition is slated for September 26-27 and… [+1070 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Tech Times"
+},
+"author": "Joseph Henry",
+"title": "This Pair of 'Cartoonish' Eyes Attached to Self-Driving Vehicle Prioritizes Pedestrian Safety on the Roads, Researchers Say",
+"description": "Apparently, the presence of these eyes can help pedestrians cross the streets safer than before.",
+"url": "https://www.techtimes.com/articles/281044/20220926/pair-cartoonish-eyes-attached-self-driving-vehicle-prioritizes-pedestrian-safety.htm",
+"urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/412131/this-pair-of-cartoonish-eyes-attached-to-self-driving-vehicle-prioritizes-pedestrian-safety-on-the-roads-researchers-say.jpg",
+"publishedAt": "2022-09-26T06:10:00Z",
+"content": "Researchers from the University of Tokyo have experimented with attaching a pair of eyes to the front part of a car. It turns out that this simple adjustment could pave the way for pedestrians to mak… [+3070 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Wccftech"
+},
+"author": "Hassan Mujtaba",
+"title": "NVIDIA Allegedly Working on Hopper H100 PCIe Graphics Card With 120 GB HBM2e Memory Capacity",
+"description": "NVIDIA is allegedly working on a brand new Hopper H100 GPU-based graphics card that would feature up to 120 GB HBM2e memory capacity. NVIDIA Hopper H100 GPU-Powered PCIe Graphics Card With 120 GB HBM2e Memory Capacity Spotted NVIDIA has so far officially anno…",
+"url": "https://wccftech.com/nvidia-hopper-h100-pcie-graphics-card-120-gb-hbm2e-memory-capacity-rumor/",
+"urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/09/nvidia-h100-cnx-hero-bb580_440-d-low_res-scale-4_00x-scaled.jpg",
+"publishedAt": "2022-09-26T06:03:37Z",
+"content": "NVIDIA is allegedly working on a brand new Hopper H100 GPU-based graphics card that would feature up to 120 GB HBM2e memory capacity.\r\nNVIDIA Hopper H100 GPU-Powered PCIe Graphics Card With 120 GB HB… [+7392 chars]"
+},
+-{
+-"source": {
+"id": "independent",
+"name": "Independent"
+},
+"author": "Vishwam Sankaran",
+"title": "Elon Musk faces deposition ahead of Twitter trial",
+"description": "Deposition is planned for Monday, and may extend till Wednesday",
+"url": "https://www.independent.co.uk/tech/elon-musk-twitter-trial-deposition-b2175138.html",
+"urlToImage": "https://static.independent.co.uk/2022/08/23/18/newFile.jpg?quality=75&width=1200&auto=webp",
+"publishedAt": "2022-09-26T05:58:13Z",
+"content": "Tesla chief Elon Musk is set to answer Twitters questions under oath in a deposition scheduled for the next few days.\r\nThe deposition comes ahead of an October trial that will determine if the multib… [+2000 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Industry Research",
+"title": "Global Luxury Car Market Growing Demands, Size-Share 2022-2030 | Industry Growth, Business Strategy, Latest Developments, Emerging Technology, Challenges, Key Suppliers, Opportunities, Stakeholder, & Regional Demands with Top Countries Data",
+"description": "Pune, Sept. 26, 2022 (GLOBE NEWSWIRE) -- Global “Luxury Car Market” 2016-2030 report discovers comprehensive insights on key manufacturers with share...",
+"url": "https://finance.yahoo.com/news/global-luxury-car-market-growing-055800134.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/rdDyM5YvGAQZHMGST86Wkg--~B/aD0xMDU7dz0zMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/33b3653f3b65c09a0fc50f65d0123f38",
+"publishedAt": "2022-09-26T05:58:00Z",
+"content": "Pune, Sept. 26, 2022 (GLOBE NEWSWIRE) -- Global Luxury Car Market 2016-2030 report discovers comprehensive insights on key manufacturers with share information, market size and projection, key dynami… [+13105 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Industry Research",
+"title": "Global Luxury Car Market Growing Demands, Size-Share 2022-2030 | Industry Growth, Business Strategy, Latest Developments, Emerging Technology, Challenges, Key Suppliers, Opportunities, Stakeholder, & Regional Demands with Top Countries Data",
+"description": "Pune, Sept. 26, 2022 (GLOBE NEWSWIRE) -- Global “Luxury Car Market” 2016-2030 report discovers comprehensive insights on key manufacturers with share information, market size and projection, key dynamics, growth factors, and new company profiles. The report p…",
+"url": "https://www.globenewswire.com/news-release/2022/09/26/2522155/0/en/Global-Luxury-Car-Market-Growing-Demands-Size-Share-2022-2030-Industry-Growth-Business-Strategy-Latest-Developments-Emerging-Technology-Challenges-Key-Suppliers-Opportunities-Stake.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/24220443-0966-4c4b-acd4-bcb5da260073?size=1",
+"publishedAt": "2022-09-26T05:58:00Z",
+"content": "Pune, Sept. 26, 2022 (GLOBE NEWSWIRE) -- Global Luxury Car Market 2016-2030 report discovers comprehensive insights on key manufacturers with share information, market size and projection, key dynami… [+12839 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CounterPunch"
+},
+"author": "John Kendall Hawkins",
+"title": "Australia’s Asian Pivot Towards War",
+"description": "Back in 2010, Barack Obama was striding about his new administration’s decision to turn his attention to doings in the Far East, described by pundits and media talking heads as ‘the Asian Pivot.’ Coincidentally, this is the same year that Obama, hamming it up…",
+"url": "https://www.counterpunch.org/2022/09/26/australias-asian-pivot-towards-war/",
+"urlToImage": "https://www.counterpunch.org/wp-content/uploads/2021/06/cp-default-share.png",
+"publishedAt": "2022-09-26T05:50:58Z",
+"content": "Back in 2010, Barack Obama was striding about his new administration’s decision to turn his attention to doings in the Far East, described by pundits and media talking heads as ‘the Asian Pivot.’ Coi… [+11894 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "International Business Times"
+},
+"author": "Jean-Philippe LACOUR and Sam REEVES",
+"title": "Porsche To Race Onto German Stock Exchange With Mega IPO",
+"description": "Porsche to race onto German stock exchange with mega IPO",
+"url": "https://www.ibtimes.com/porsche-race-german-stock-exchange-mega-ipo-3616811",
+"urlToImage": "https://d.ibtimes.com/en/full/3822164/mega-ipo-comes-porsche-beefs-its-electric-ambitions-electric-version-macan-seen-here.jpg",
+"publishedAt": "2022-09-26T05:42:12Z",
+"content": "The mega IPO comes as Porsche beefs up its electric ambitions with an electric version of the Macan, seen here at the Thailand International Motor Expo, due in 2024\r\nLuxury sports carmaker Porsche wi… [+3550 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Jean-Philippe LACOUR and Sam REEVES",
+"title": "Porsche to race onto German stock exchange with mega IPO",
+"description": "Luxury sports carmaker Porsche will this week race onto the Frankfurt stock exchange in what is set to be one of Europe's biggest listings in years, seeking ...",
+"url": "https://news.yahoo.com/porsche-race-onto-german-stock-053739469.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/NkC6gh_lq1tULNvlfB2ujA--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/5ba570a0af3f6695f82a1e3f50ccfa69",
+"publishedAt": "2022-09-26T05:37:39Z",
+"content": "Luxury sports carmaker Porsche will this week race onto the Frankfurt stock exchange in what is set to be one of Europe's biggest listings in years, seeking to defy recent market turbulence.\r\nWhile t… [+3406 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "insider@insider.com (Cheryl Teh)",
+"title": "Donald Trump privately slammed Ron DeSantis, calling him 'fat,' 'phony,' and 'whiny': book",
+"description": "New York Times reporter Maggie Haberman wrote that Trump also poked fun at former New Jersey Gov. Chris Christie's \"weight problem.\"",
+"url": "https://www.businessinsider.com/donald-trump-called-ron-desantis-fat-and-whiny-2022-9",
+"urlToImage": "https://i.insider.com/63311e4a329bac00182f26a7?width=1200&format=jpeg",
+"publishedAt": "2022-09-26T05:28:33Z",
+"content": "Former President Donald Trump has been making rude comments in private about Florida Gov. Ron DeSantis and former New Jersey Gov. Chris Christie, according to a new book by New York Times reporter Ma… [+3052 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "kendo",
+"title": "Asset manager says one FAANG stock looks 'very attractive' in the medium term",
+"description": "Neil Veitch is an investment director at SVM Asset Management. He says Alphabet is his favorite of the FAANG stocks. The group includes Facebook-parent Meta, Amazon, Apple, Netflix and... #faang #faangs #svmassetmanagement #neilveitch #netflix #assetmanager #…",
+"url": "https://biztoc.com/p/3dbh87yr?ref=rss",
+"urlToImage": "https://cdn.biztoc.com/og/3dbh87yr.jpg",
+"publishedAt": "2022-09-26T05:08:56Z",
+"content": "Neil Veitch is an investment director at SVM Asset Management. He says Alphabet is his favorite of the FAANG stocks. The group includes Facebook-parent Meta, Amazon, Apple, Netflix and Google-parent … [+725 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Lesswrong.com"
+},
+"author": "jacobjacob",
+"title": "How I buy things when Lightcone wants them fast",
+"description": "Published on September 26, 2022 5:02 AM GMTOn occasion, for my work at Lightcone I have been able to buy things faster than their advertised lead times. For example, I once got… <ul><li>10 sofas in 2 days when the website shipping speed said 5 days to 3 weeks…",
+"url": "https://www.lesswrong.com/posts/zymnWfGwf6BdDt64c/how-i-buy-things-when-lightcone-wants-them-fast",
+"urlToImage": "https://lh4.googleusercontent.com/Hy2SW59ihteFFpBVDc8bcXW-h945yhoh5-WvQGXS7zL2YFcPbok4yERznwUZIb5ayzSbGW2x7IbhEwLJHobFZxaADJNUTemojaoZ0volQhShoNZA2A8HwUZteR3eALoCD8cArHI2tqllaOiycoLti8xy6FtwschA-nO-UzmU1Bjj6pDzzqtii21Xwg",
+"publishedAt": "2022-09-26T05:02:09Z",
+"content": "On occasion, for my work at Lightcone I have been able to buy things faster than their advertised lead times. For example, I once got \r\n<ul><li>10 sofas in 2 days when the website shipping speed said… [+11607 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Star Online"
+},
+"author": "RONALD MONTOYA",
+"title": "Opinion: The pros and cons of vehicle touchscreens",
+"description": "There’s no denying the impact that smartphones and tablets have had on modern vehicles. Look into just about any new car and you’ll find a touchscreen and maybe even a bank of capacitive touch buttons that seek to approximate the function of mechanical button…",
+"url": "https://www.thestar.com.my/tech/tech-news/2022/09/26/opinion-the-pros-and-cons-of-vehicle-touchscreens",
+"urlToImage": "https://apicms.thestar.com.my/uploads/images/2022/09/26/1751857.jpg",
+"publishedAt": "2022-09-26T04:30:00Z",
+"content": "Theres no denying the impact that smartphones and tablets have had on modern vehicles. Look into just about any new car and youll find a touchscreen and maybe even a bank of capacitive touch buttons … [+4718 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "CNBC Asia Source",
+"title": "CCTV Script Weekly 23/09/22",
+"description": "This is the script of CNBC's weekly news report for China's CCTV on September 23, 2022.",
+"url": "https://www.cnbc.com/2022/09/26/cctv-script-weekly-23/09/22.html",
+"urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080",
+"publishedAt": "2022-09-26T04:17:14Z",
+"content": "This is the script of CNBC's weekly report for China's CCTV on September 23, 2022.\r\nFor this week's weekly report, let's first take a look at Jeff Bezos, founder and chief executive officer of Amazon… [+3121 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Republic World"
+},
+"author": "Associated Press Television News",
+"title": "Musk faces deposition with Twitter ahead of October trial",
+"description": "Tesla CEO Elon Musk is scheduled to spend the next few days with lawyers for Twitter, answering questions ahead of an October trial",
+"url": "https://www.republicworld.com/technology-news/apps/musk-faces-deposition-with-twitter-ahead-of-october-trial-articleshow.html",
+"urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/859vjmscpqrjft7q_1664165086.jpeg",
+"publishedAt": "2022-09-26T04:05:00Z",
+"content": "Tesla CEO Elon Musk is scheduled to spend the next few days with lawyers for Twitter, answering questions ahead of an October trial that will determine whether he must carry through with his USD 44 b… [+929 chars]"
+}
+]
+}
